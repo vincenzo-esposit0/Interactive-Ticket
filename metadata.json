@@ -1,0 +1,6 @@
+{
+  "name": "Biglietto Concerto Sorpresa",
+  "description": "Un sito vetrina emozionale e interattivo per svelare un biglietto di compleanno a sorpresa per il concerto di Geolier a Napoli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
